@@ -1,0 +1,25 @@
+.bx-main {
+    width: 550px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: slategray;
+    font-weight: bold;
+   
+}
+
+#enternumber {
+    height: 20px;
+    font-size:medium;
+}
+button {
+    height: 25px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: silver;
+    
+}
+.bx-main__cont{
+    margin: 10px;
+}
